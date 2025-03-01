@@ -1,6 +1,4 @@
-
 <?php
-echo "Welcome to php <br>";
-print "Welcome to php <br>";
-printf("Welcome to php <br>");
-?>
+echo "Welcome to PHP!<br>";
+print "Welcome to PHP!<br>";
+printf("Welcome to PHP!<br>");

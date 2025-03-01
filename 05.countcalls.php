@@ -1,4 +1,3 @@
-
 <?php
 
 function countCalls()
@@ -11,5 +10,3 @@ function countCalls()
 countCalls();
 countCalls();
 countCalls();
-
-?>

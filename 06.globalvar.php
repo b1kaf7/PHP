@@ -1,4 +1,3 @@
-
 <?php
 $var = "Hello, World!";
 
@@ -9,4 +8,3 @@ function printVar()
 }
 
 printVar();
-?>

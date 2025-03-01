@@ -1,4 +1,3 @@
-
 <?php
 
 function greetuser($name = "Guest")
@@ -6,5 +5,4 @@ function greetuser($name = "Guest")
     echo "Hello $name";
 }
 greetuser("Sweetie!");
-// welcomemessage();
-?>
+// greetuser(); 

@@ -1,4 +1,2 @@
-
-    <?php
-    echo "Hello php!"
-    ?>
+<?php
+echo "Hello php!";

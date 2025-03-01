@@ -1,14 +1,22 @@
 <?php
 function add($a, $b)
 {
-    return $a + $b;
+    return "The sum of $a and $b is " . ($a + $b);
 }
+
 function mult($a, $b)
 {
-    return $a * $b;
+    return "The product of $a and $b is " . ($a * $b);
 }
+
 $operation = "add";
-echo $operation(4, 5);
+if (is_callable($operation)) {
+    echo $operation(4, 5);
+}
+
 echo "<br>";
+
 $operation = "mult";
-echo $operation(4, 5);
+if (is_callable($operation)) {
+    echo $operation(4, 5);
+}

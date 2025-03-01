@@ -1,4 +1,3 @@
-
 <?php
 function printVar()
 {
@@ -7,4 +6,3 @@ function printVar()
 }
 
 printVar();
-?>
