@@ -1,7 +1,7 @@
 <?php
 function getName()
 {
-    $name = "rohan";
+    $name = "Binamra";
     return $name;
 }
 
