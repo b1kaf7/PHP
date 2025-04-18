@@ -2,5 +2,4 @@
 $square = function ($num) {
     return $num * $num;
 };
-
-echo $square(4) . "<br>";
+echo "Square of 4 is: " . $square(4);
