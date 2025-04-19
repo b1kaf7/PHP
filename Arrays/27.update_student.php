@@ -1,11 +1,11 @@
 <?php
 $student = [
-    'Name' => 'Rohan',
+    'Name' => 'Hency',
     'Grade' => 'A',
     'Age' => 21
 ];
 
-$student['Email'] = 'rohan@gmail.com';
+$student['Email'] = 'hency@gmail.com';
 unset($student['Age']);
 
 foreach ($student as $key => $value) {

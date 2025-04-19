@@ -1,8 +1,8 @@
 <?php
 $employee = [
-    ['name' => 'Binamra', 'position' => 'manager', 'salary' => '500000'],
-    ['name' => 'Rohan', 'position' => 'CEO', 'salary' => '5000000'],
-    ['name' => 'Kushal', 'position' => 'guard', 'salary' => '5000'],
+    ['name' => 'Binamra', 'position' => 'Manager', 'salary' => 'XXXXX'],
+    ['name' => 'Rohan', 'position' => 'CEO', 'salary' => 'XXXXX'],
+    ['name' => 'Kushal', 'position' => 'Manager', 'salary' => 'XXXXX'],
 ];
 
 foreach ($employee as $detail) {

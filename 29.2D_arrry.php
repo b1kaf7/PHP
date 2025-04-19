@@ -1,8 +1,8 @@
 <?php
 $students = [
-    ["Alice", 20, "A"],
-    ["Bob", 21, "B"],
-    ["Charlie", 22, "C"]
+    ["Kushal", 20, "A"],
+    ["Rohan", 21, "B"],
+    ["Ajit", 22, "C"]
 ];
 
 foreach ($students as $student) {
