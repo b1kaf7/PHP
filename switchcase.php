@@ -1,4 +1,6 @@
 <?php
+// Write a program of switch statement in PHP as of your choice.
+
 $month = "Feb";
 
 switch ($month) {
